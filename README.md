@@ -27,11 +27,11 @@
 ```txt
 Total Time: 41 hrs 2 mins
 
-TypeScript   36 hrs 1 min    ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   86.80 %
-JSON         1 hr 46 mins    ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   04.26 %
-JavaScript   1 hr 28 mins    ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   03.54 %
-Other        28 mins         ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 %
-CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   00.85 %
+Python       ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀   51.80 %
+JavaScript             ⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   24.26 %
+TypeScript       ⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.54 %
+Other                 ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.14 %
+CSS                   ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.85 %
 ```
 
 <!--
@@ -183,22 +183,22 @@ CSS          21 mins         ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
   <div align="center">
     <span>
       <a href="https://aayushbharti.in">
-        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=aayushbharti&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
+        <img width="330" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=smartcodemotive&langs_count=8&layout=compact&theme=dark&border_radius=10&hide_border=true" alt="top langs" />
       </a>
     </span>
     <span>
       <a href="https://aayushbharti.in">
-        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=aayushbharti&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
+        <img height="180" src="https://github-readme-stats.vercel.app/api/wakatime?username=smartcodemotive&layout=compact&langs_count=6&theme=dark&border_radius=10&hide_border=true" />
       </a>
     </span>
     <span>
       <a href="https://aayushbharti.in">
-        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=aayushbharti&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
+        <img width="410" src="https://github-readme-stats-salesp07.vercel.app/api?username=smartcodemotive&count_private=true&show_icons=true&theme=dark&rank_icon=github&hide_border=true&border_radius=10" alt="readme stats" />
       </a>
     </span>
     <span>
       <a href="https://aayushbharti.in">
-        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=aayushbharti&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
+        <img width="430" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=smartcodemotive&count_private=true&theme=dark&hide_border=true&border_radius=10&card_width=495" alt="streak stats" />
       </a>
     </span>
   </div>
