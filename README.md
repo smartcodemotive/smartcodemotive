@@ -2,13 +2,6 @@
 
 <!-- <h1 align="center"><a href="https://aayushbharti.in/" target="_blank"><img src="https://readme-typing-svg.herokuapp.com?font=Tourney&weight=900&size=30&duration=4000&pause=5000&color=1e90ff&center=true&vCenter=true&repeat=true&random=false&width=600&lines=Hello+%3Ccoders!%2F%3E%2C+I'm+Aayush+Bharti" alt="Hey there 🙋‍♂️, I'm Aayush Bharti" /></a></h1> -->
 
-  <a href="https://aayushbharti.in/">
-    <img
-      alt="Aayush Bharti"
-      src="./assets/banner.jpg"
-      width="100%"
-    />
-  </a>
 
 <!-- <div align="center" style="margin: 22px 0; display: flex; justify-content: center; align-items: center;">
   <span style="font-size: 1.4rem; font-weight: bold; display: inline-block; vertical-align: middle;">
