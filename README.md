@@ -28,7 +28,7 @@
 [![My Skills](https://go-skill-icons.vercel.app/api/icons?i=python,django,fastapi,flask,nodejs,html,css,js,ts,react,nextjs,tailwind,framer,radix,figma,notion,reactrouter,markdown,biome,expressjs,nestjs,redis,postgresql,mongodb,prisma,drizzle,betterauth,turborepo,reactquery,zustand,expo,groq,sentry,pnpm,bun,git,github,githubactions,vercel,docker,aws,cloudflare,debian,bash,c&theme=dark&titles=true)](https://aayushbharti.in)
 
   <!-- jest -->
-</p>
+<!-- </p>
 📊<b> Weekly development breakdown</b>
 
 ```txt
@@ -39,7 +39,7 @@ JavaScript       ⣿⣿⣿⣿⣿⣿⣿⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 TypeScript       ⣿⣿⣿⣿⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   23.54 %
 Other            ⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.90 %
 CSS              ⣄⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   01.80 %
-```
+``` -->
 
 <!--
 ## 🚀 Languages and Tools
