@@ -1,19 +1,8 @@
 
 <div align="center">
-  
-![806ede5583f088c6bdb788bf867f8064-62505265](https://github.com/user-attachments/assets/a0be2459-1f9d-4ab7-a49f-d7b1f9f7bb61)
 
-## 🏆 My Stats
 <picture>
-  <source
-    srcset="https://streak-stats.demolab.com/?user=j-krolak&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://streak-stats.demolab.com/?user=j-krolak"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://streak-stats.demolab.com/?user=j-krolak" />
+  <img src="https://streak-stats.demolab.com/?user=smartcodemotive" />
 </picture>
 
 </div>
